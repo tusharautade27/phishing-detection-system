@@ -46,8 +46,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## 📸 Screenshots
-[Add screenshots of your web app here]
 
-## 🔗 Live Demo
-[Add link if deployed]
